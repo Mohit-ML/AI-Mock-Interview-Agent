@@ -48,4 +48,19 @@ Result: Correct Answer
 - Add more interview questions  
 - Build a web interface  
 - Add scoring system for the full interview  
+
 - Store interview results for users
+
+## Features
+
+- Simple AI mock interview simulation
+- Multiple interview questions
+- Answer evaluation using semantic similarity
+- Cosine similarity scoring
+- Python based implementation
+
+- ## Future Improvements
+
+- Add web interface
+- Add scoring system for full interview
+- Add more interview questions
